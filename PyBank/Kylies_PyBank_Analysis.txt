@@ -1,0 +1,5 @@
+There are 86 months included in the PyBank dataset.
+The net total amount of "Profits and Losses" over the entire period is $38382578.
+The average of the changes in "Profit/Losses" over the entire period is $567769.
+The greatest increase in "Profits and Losses" over the entire period was $1926159 and occured during Feb-2012.
+The greatest decrease in "Profits and Losses" over the entire period was $-2196167 and occured during Sep-2013.
